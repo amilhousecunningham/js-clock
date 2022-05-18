@@ -1,0 +1,22 @@
+body {
+  background-color: azure;
+}
+
+.question {
+  font-size: 50px;
+  text-align: center;
+}
+
+.clock-div {
+  border: 5px solid black;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.clock {
+  text-align: center;
+  font-size: 45px;
+  text-align: center;
+  color: black;
+  
+}
